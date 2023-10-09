@@ -21,9 +21,4 @@ To install the required packages and libraries, run this command in the project 
 ### Screen application
    ![](images/img0.png) 
 
-  ![](images/img1.png) 
-
-  ![](images/img2.png) 
-    
-
 
