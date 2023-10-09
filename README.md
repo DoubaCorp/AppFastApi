@@ -21,4 +21,6 @@ To install the required packages and libraries, run this command in the project 
 ### Screen application
    <img width="401" alt="img0" src="https://github.com/DoubaCorp/AppFastApi/assets/31081516/6b26cca4-b48c-4fcc-be0a-ec32ae2a7b2f">
 
+   <img width="880" alt="img1" src="https://github.com/DoubaCorp/AppFastApi/assets/31081516/2dac923f-26a7-44a0-a488-bd65a91a97ae">
+
 
